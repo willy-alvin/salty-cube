@@ -1,0 +1,13 @@
+{
+  "name": "salty-cube",
+  "version": "1.0.0",
+  "description": "SugarCube debug tool",
+  "repository": "github:willy-alvin/salty-cube",
+  "author": "willy-alvin@proton.me",
+  "license": "MIT",
+  "private": false,
+  "main": "src/index.ts",
+  "scripts": {
+
+  }
+}
